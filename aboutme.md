@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Welcome to my website
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Minxi Jiang. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- I am a foodie
+- I'm a lab slave
 
 ### My story
 
